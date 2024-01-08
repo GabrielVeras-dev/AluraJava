@@ -1,2 +1,2 @@
 # AluraJava
-Revisando os conceitos de Java com a plataforma de estudos da Alura para dar uma refrescada na cabeça e aprender novas coisas que eu não tenha visto.
+Revisando java com este projeto da Alura onde reforça a linguagem Java em si.
