@@ -13,5 +13,6 @@ public class Principal {
         System.out.println("Total de avaliações: " + meuFilme.getTotalDeAvaliacoes());
         System.out.println(meuFilme.pegaMedia());
         System.out.println("Teste");
+        System.out.println("teste2");
     }
 }
